@@ -1,0 +1,1 @@
+pikkus = int(input(Sisesta ristküliku))
