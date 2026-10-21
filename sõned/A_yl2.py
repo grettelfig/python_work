@@ -1,0 +1,5 @@
+eesnimi = str(input("Sisesta oma eesnimi: "))
+perekonnanimi = str(input("Sisesta oma perekonnanimi: "))
+print("Eesnimi: ", eesnimi)
+print("Perekonnanimi: ", perekonnanimi)
+print("Täisnimi: ", eesnimi + " " + perekonnanimi)
