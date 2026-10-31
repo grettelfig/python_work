@@ -2,7 +2,7 @@ import tkinter as tk
 
 laius = 600
 kõrgus = 400
-taustavärv = "whiteqq"
+taustavärv = "white"
 
 aken = tk.Tk()
 aken.title("Minu esimene graafika")
